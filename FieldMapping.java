@@ -25,7 +25,7 @@ public class FieldMapping {
 	private static String alias_deal_value = "dcf.";
 	private static String default_sacc_check = ", sacc.";
 	private static String default_sacc_replace = "sales_account_";
-	private static String database_name = "freshworks_freshsales";
+	private static String database_name = "freshworks_freshsales.";
 
 	// Contacts
 	private static String contacts_query = "/Users/kaparthasarathy/Desktop/OpenPrice/contacts_query.txt";
